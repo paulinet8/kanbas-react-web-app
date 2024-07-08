@@ -22,7 +22,7 @@ export default function Labs() {
       <br/>
       {/*Add link to GitHub repo after publishing A1 */}
       Deliverable: The following is a 
-      <a id="wd-github" href="https://github.com/paulinet8/kanbas-react-web-app.gits">link</a>
+      <a id="wd-github" href="https://github.com/paulinet8/kanbas-react-web-app.git">link</a>
        to the public GitHub repo for A1.
 
     </div>
