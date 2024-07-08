@@ -10,6 +10,7 @@ import Lab3 from "./Lab3";
 export default function Labs() {
   return (
     <div id="wd-labs">
+      <h1>Pauline Truong CS5610 Summer2 2024</h1>
       <h1>Labs</h1>
       <TOC />
       <Routes>
