@@ -3,15 +3,18 @@
 export default function Assignments() {
     return (
         <div id="wd-assignments">
-            <input id="wd-search-assignment"
-                placeholder="Search for Assignments" />
+            <input id="wd-search-assignment" 
+                placeholder="Search..." />
+                <br /><br />
             <button id="wd-add-assignment-group">+ Group</button>
             <button id="wd-add-assignment">+ Assignment</button>
+            <br /><br />
             <h3 id="wd-assignments-title">
                 ASSIGNMENTS 40% of Total <button>+</button>
             </h3>
             <ul id="wd-assignment-list">
                 <li className="wd-assignment-list-item">
+                    <br />
                     <a className="wd-assignment-link"
                         href="#/Kanbas/Courses/1234/Assignments/123">
                         A1 - ENV + HTML
@@ -21,6 +24,7 @@ export default function Assignments() {
                     12:00am | <b>Due</b> May 13 at 11:59pm | 100 pts
                 </li>
                 <li className="wd-assignment-list-item">
+                    <br />
                     <a className="wd-assignment-link"
                         href="#/Kanbas/Courses/1234/Assignments/123">
                         A2 - CSS + BOOTSTRAP
