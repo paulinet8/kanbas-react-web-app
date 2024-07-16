@@ -4,11 +4,7 @@ import { BsPlus } from "react-icons/bs";
     status buttons for the Module including
     Bootstrap plus icon */}
 
-{/* export default function ModuleControlButtons() {
-    return ()
-} */}
-
-export default function BsGripVertical() {
+export default function ModuleControlButtons() {
     return (
         <span className="me-1 position-relative">
             <BsPlus style={{ top: "2px" }}
