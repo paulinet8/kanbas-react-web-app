@@ -1,5 +1,5 @@
-/* a component that offsets the Kanbas' main content
-   to the right of the Kanbas navigation bar */
+/* a component that styles the Kanbas' main content
+   and the Kanbas Navigation bar */
 
 body {
     margin: 0;
@@ -8,6 +8,21 @@ body {
 
 body * {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-secondary {
+    --bs-btn-color: #000;
+    --bs-btn-bg: #c7cdd1;
+    --bs-btn-border-color: #c7cdd1;
+    --bs-btn-hover-color: #fff;
+}
+
+.bg-secondary {
+    background-color: #c7cdd1 !important;
+}
+
+.border-gray {
+    border: 1px solid gray;
 }
 
 @media (min-width: 768px) {
