@@ -1,5 +1,6 @@
 import { FaPlus } from "react-icons/fa6";
 import GreenCheckmark from "./GreenCheckmark";
+import { MdDoNotDisturb } from "react-icons/md";
 
 {/* a component that serves as the Modules Controls
     at the top of the Modules page */}
@@ -33,6 +34,18 @@ export default function ModulesControls() {
                     {/* Create two more items with IDs wd-unpublish-all-modules-and-items and
                 wd-unpublish-modules-only with labels Unpublish all modules and items
                 and Unpublish modules only */}
+                    <li>
+                        <a id="wd-unpublish-modules-and-items" className="dropdown-item" href="#">
+                            <MdDoNotDisturb />
+                            Unpublish all modules and items
+                        </a>
+                    </li>
+                    <li>
+                        <a id="wd-unpublish-modules-only" className="dropdown-item" href="#">
+                            <MdDoNotDisturb />
+                            Unpublish modules only
+                        </a>
+                    </li>
                 </ul>
             </div>
             {/* Implement the View Progress and Collapse All buttons
