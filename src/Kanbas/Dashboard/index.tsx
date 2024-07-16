@@ -19,6 +19,10 @@ export default function Dashboard() {
                                     <p className="card-text">
                                         Computer Science Foundations 101
                                     </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11111
+                                    </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
                             </a>
@@ -35,6 +39,10 @@ export default function Dashboard() {
                                     </h5>
                                     <p className="card-text">
                                         Object Oriented Design
+                                    </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11112
                                     </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
@@ -53,6 +61,10 @@ export default function Dashboard() {
                                     <p className="card-text">
                                         Discrete Mathematics
                                     </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11113
+                                    </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
                             </a>
@@ -69,6 +81,10 @@ export default function Dashboard() {
                                     </h5>
                                     <p className="card-text">
                                         Full Stack Development
+                                    </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11114
                                     </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
@@ -87,6 +103,10 @@ export default function Dashboard() {
                                     <p className="card-text">
                                         Human Computer Interface Development
                                     </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11115
+                                    </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
                             </a>
@@ -104,6 +124,10 @@ export default function Dashboard() {
                                     <p className="card-text">
                                         Algorithms
                                     </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11116
+                                    </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
                             </a>
@@ -120,6 +144,10 @@ export default function Dashboard() {
                                     </h5>
                                     <p className="card-text">
                                         Advanced Software Development
+                                    </p>
+                                    <p className="card-text">
+                                        Summer 2 2024 Semester
+                                        Section 11117
                                     </p>
                                     <button className="btn btn-primary"> Go </button>
                                 </div>
